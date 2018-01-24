@@ -73,11 +73,13 @@
             Cliquer sur le bouton play pour visionner  la vidéo ci dessous
         </div>
         <div class="col-lg-12 panel">
-            <div class="embed-responsive embed-responsive-16by9">
-                    <video  controls>
+            <div class="embed-responsive embed-responsive-16by9 styled_video_container">
+                    <video  controls id="styled_video">
                     <source src="../../videos/fr/alcool.mp4" type="video/mp4">
                     Your browser does not support HTML5 video.
                     </video>
+                <button type="button" id="style_it">Style It!</button>
+                <button type="button" id="stop_style_it">Stop It!</button>
             </div>
 
 
@@ -90,7 +92,18 @@
 <script type="text/javascript" src="../../js/jquery-3.1.1.min.js"></script>
 <script type="text/javascript" src="../../js/bootstrap.min.js"></script>
 <script type="text/javascript" src="../../js/index.js"></script>
-
+    <style>
+        #styled_video_container.style_it  {
+            background: linear-gradient(to bottom, #ff670f 0%,#e20d0d 100%);
+        }
+        #styled_video_container.style_it video {
+            border: 10px solid green !important;
+            opacity: 0.6;
+            transition: all 8s ease-in-out;
+            transform: rotate(300deg);
+            box-shadow:         12px 9px 13px rgba(255, 0, 255, 0.75);
+        }
+    </style>
 </body>
 
 </html>
