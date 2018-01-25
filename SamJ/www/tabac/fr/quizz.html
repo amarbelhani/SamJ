@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz Example</title>
+    <link href="http://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="../../css/quiz/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../../js/sweet-alert.css">
+    <link rel="stylesheet" href="../../css/quiz.css">
+    <style>
+        #quiz {
+            height: 600px;
+
+            display: block;
+        }
+    </style>
+</head>
+<body>
+<div class="container-fluid text-center">
+    <div id="quiz"></div>
+
+</div>
+
+<script src="../../js/jquery-3.1.1.min.js"></script>
+<script src="../../js/bootstrap.min.js"></script>
+<script src="../../css/sweet-alert.min.js"></script>
+<script src="../../js/quiz.js"></script>
+<script>
+    $(function() {
+        $('#quiz').quiz("essai.json");
+    });
+</script>
+</body>
+</html>

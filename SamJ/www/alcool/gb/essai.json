@@ -1,0 +1,78 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 1,
+        "text": " Wrong : drinking alcohol affects a man’s erection and reduce women’s pleasure."
+      },
+      "number": 1,
+      "prompt": "The consumption of alcohol increases the libido "
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Wrong: on the contrary, alcohol makes you urinate more often and  provokes dehydration which is the origin of ‘hangover effect’."
+      },
+      "number": 2,
+      "prompt": "Alcohol can quench your thirst"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right: alcohol provides calories and contributes to greater fat storage. Indeed, the body first burns  calories brought by alcohol and then calories brought by your eating and drinking."
+      },
+      "number": 3,
+      "prompt": "Alcohol makes you fat "
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Wrong: this stuff gives you the sensation to feel awake but it’s just an illusion. "
+      },
+      "number": 4,
+      "prompt": "Having a coffee or a shower can sober you up "
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Wrong: alcohol brings a feeling of warmth by dilating blood vessels but heat can escape through the pores of the skin."
+      },
+      "number": 5,
+      "prompt": "Alcohol warms you up, alcohol stimulates"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right: generally women are shorter and less corpulent than men"
+      },
+      "number": 6,
+      "prompt": "Men can tolerate alcohol in higher doses than women  "
+    }
+  ],
+  "title": "Quizz Alcohol",
+  "url": "quizz.html"
+}

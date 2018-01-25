@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 1,
+      "prompt": "Il existe plus de 12 moyens de contraception différents"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux"
+      },
+      "number": 2,
+      "prompt": "Un moyen de contraception, c’est pour la vie"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 3,
+      "prompt": "Les femmes qui n’ont jamais eu d’enfant peuvent se faire poser un DIU (dispositif intra utérin, avant appelé stérilet)"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 4,
+      "prompt": "La douche vaginale n’est pas un mode de contraception "
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 5,
+      "prompt": "Le préservatif est le seul mode de contraception qui protège contre le VIH-Sida et les autres Infections Sexuellement Transmissible (IST)"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux"
+      },
+      "number": 6,
+      "prompt": "Il suffit de bien connaître le rythme de ses cycles pour ne pas être enceinte"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux"
+      },
+      "number": 7,
+      "prompt": "Le retrait est un moyen de contraception efficace"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux"
+      },
+      "number": 8,
+      "prompt": "Tous les moyens de contraception contiennent des hormones"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux"
+      },
+      "number": 9,
+      "prompt": "Pour avoir une contraception d’urgence, il faut forcément une ordonnance"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 10,
+      "prompt": "Certains moyens de contraception sont gratuits pour les mineurs"
+    }
+  ],
+  "title": "Quizz Contraception et IST",
+  "url": "quizz.html"
+}

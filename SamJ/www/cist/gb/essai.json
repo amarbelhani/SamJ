@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right"
+      },
+      "number": 1,
+      "prompt": "There are more than 12 different types of contraceptives"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Wrong"
+      },
+      "number": 2,
+      "prompt": "A contraceptive is forever"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right"
+      },
+      "number": 3,
+      "prompt": "Women, who have never had children, can use IUD (an intrauterine device, previously called a coil)"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right"
+      },
+      "number": 4,
+      "prompt": "Contraceptive douches are not a type of contraception"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right"
+      },
+      "number": 5,
+      "prompt": "The condom is the only contraceptive which protects against  HIV- AIDS and other Sexually Transmitted Infection (STI)"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Wrong"
+      },
+      "number": 6,
+      "prompt": "You need to know well your menstrual cycle not to be pregnant"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Wrong"
+      },
+      "number": 7,
+      "prompt": "Coitus interruptus is a more effective method"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Wrong"
+      },
+      "number": 8,
+      "prompt": "Every contraceptive contain hormones"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Wrong"
+      },
+      "number": 9,
+      "prompt": ". In order to get an emergency contraceptive pill, you must be in possession of a prescription"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right"
+      },
+      "number": 10,
+      "prompt": "Some contraceptives are free for minors"
+    }
+  ],
+  "title": "Quizz Contraception and STI",
+  "url": "quizz.html"
+}

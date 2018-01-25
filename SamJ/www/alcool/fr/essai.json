@@ -1,0 +1,78 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": " Faux : l’alcool perturbe l’érection chez l’homme et atténue le plaisir chez la femme"
+      },
+      "number": 1,
+      "prompt": "L’alcool augmente la libido "
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux : bien au contraire, l’alcool fait uriner davantage et provoque une déshydratation qui est à l’origine de l’effet « gueule de bois »."
+      },
+      "number": 2,
+      "prompt": "L’alcool désaltère "
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai : l’alcool fournit des calories et favorise le stockage des graisses. En effet, l’organisme brûle d’abord les calories apportées par l’alcool puis celles apportées par l’alimentation."
+      },
+      "number": 3,
+      "prompt": "L’alcool fait grossir "
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux : ces « trucs » procurent la sensation d’être réveillé mais ce n’est qu’une illusion."
+      },
+      "number": 4,
+      "prompt": "Le café ou la douche dessaoule "
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux : l’alcool procure une sensation de chaleur en dilatant les vaisseaux sanguins, mais la chaleur produite s’échappe par les pores de la peau."
+      },
+      "number": 5,
+      "prompt": "L’alcool réchauffe, l’alcool stimule "
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai : les femmes sont en général plus petites et moins corpulentes que les hommes"
+      },
+      "number": 6,
+      "prompt": "Les hommes supportent mieux l’alcool que les femmes "
+    }
+  ],
+  "title": "Quizz Alcool",
+  "url": "quizz.html"
+}

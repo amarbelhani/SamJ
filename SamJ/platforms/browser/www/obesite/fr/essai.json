@@ -1,0 +1,97 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Il faut manger",
+        "Il faut faire un régime",
+        "Il faut faire du sport"
+      ],
+      "correct": {
+        "index": 2,
+        "text": " Il faut faire du sport"
+      },
+      "number": 1,
+      "prompt": "Comment vaincre l'obésité"
+    },
+    {
+      "answers": [
+        "les jeunes",
+        "les personnes agées",
+        "les adultes dans la quarantaine"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "les adultes dans la quarantaine"
+      },
+      "number": 2,
+      "prompt": "L'obésité touche surtout..."
+    },
+    {
+      "answers": [
+        "n'a pas de rapport avec l'obésité",
+        "défavorise l'obésité",
+        "favorise l'obésité"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "favorise l'obésité"
+      },
+      "number": 3,
+      "prompt": "Ne pas manger à horaires fixes ..."
+    },
+    {
+      "answers": [
+        "de devenir anorexique",
+        "un accident vasculaire cérébral",
+        "de faire un régime qui marche"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "un accident vasculaire cérébral"
+      },
+      "number": 4,
+      "prompt": "Une personne atteinte d'obésité risque..."
+    },
+    {
+      "answers": [
+        "défavorise l'obésité",
+        "favorise l'obésité.",
+        "n'a pas de rapport avec l'obésité"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "favorise l'obésité"
+      },
+      "number": 5,
+      "prompt": "Grignoter..."
+    },
+    {
+      "answers": [
+        "favorise l'obésité",
+        "n'a pas de rapport avec l'obésité",
+        "défavorise l'obésité"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "défavorise l'obésité"
+      },
+      "number": 6,
+      "prompt": "Manger 5 fruits et légumes par jour..."
+    },
+    {
+      "answers": [
+        "une nourriture trop calorique",
+        "une nourriture permettant de combattre l'obésité",
+        "une nourriture saine"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "ne nourriture trop calorique"
+      },
+      "number": 7,
+      "prompt": "Les fast-foods fournissent..."
+    }
+  ],
+  "title": "Quiz Obésité ",
+  "url": "quizz.html"
+}

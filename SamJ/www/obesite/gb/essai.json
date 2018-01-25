@@ -1,0 +1,97 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "you must eat ",
+        "you must be on a diet",
+        "you must do sports"
+      ],
+      "correct": {
+        "index": 2,
+        "text": " you must do sports"
+      },
+      "number": 1,
+      "prompt": "How to beat obesity?"
+    },
+    {
+      "answers": [
+        "young people",
+        "old people",
+        "adults around forty"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "adults around forty"
+      },
+      "number": 2,
+      "prompt": "Obesity mostly affects..."
+    },
+    {
+      "answers": [
+        "is not linked to obesity",
+        "is not in favour of obesity",
+        "is in favour of obesity"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "is in favour of obesity"
+      },
+      "number": 3,
+      "prompt": "Eating at irregular times..."
+    },
+    {
+      "answers": [
+        "become anorexic",
+        "have a stroke",
+        "be on a suitable diet"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "have a stroke"
+      },
+      "number": 4,
+      "prompt": "An obese person is likely to ..."
+    },
+    {
+      "answers": [
+        "is not in favour of obesity",
+        "is in favour of obesity",
+        "is not linked to obesity"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "is in favour of obesity"
+      },
+      "number": 5,
+      "prompt": "Nibbling ..."
+    },
+    {
+      "answers": [
+        "is in favour of obesity.",
+        "is not linked to obesity.",
+        "is not in favour of  obesity"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "is not in favour of  obesity."
+      },
+      "number": 6,
+      "prompt": "Eating five fruits and five vegetables per day..."
+    },
+    {
+      "answers": [
+        "high calorific food",
+        "food which prevents obesity",
+        "healthy food."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "high calorific food"
+      },
+      "number": 7,
+      "prompt": "Fast-food provides ..."
+    }
+  ],
+  "title": "Quiz Obesity ",
+  "url": "quizz.html"
+}

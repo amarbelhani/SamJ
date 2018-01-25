@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": " Vrai"
+      },
+      "number": 1,
+      "prompt": "On peut fumer près d’un non-fumeur sans risque pour lui"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux"
+      },
+      "number": 2,
+      "prompt": "On grossit obligatoirement si on arrête de fumer"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 3,
+      "prompt": "La cigarette rend dépendant"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 4,
+      "prompt": "Même lorsqu’on est très dépendant, arrêter de fumer, c’est possible"
+    }
+  ],
+  "title": "Quizz Tabac",
+  "url": "quizz.html"
+}

@@ -1,0 +1,78 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": " Vrai"
+      },
+      "number": 1,
+      "prompt": " Un lumbago se traite par le repos, au lit"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 2,
+      "prompt": "La natation est recommandée en cas de mal de dos"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 3,
+      "prompt": "Le mal de dos passe souvent seul"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux"
+      },
+      "number": 4,
+      "prompt": "Le mal de dos ne concerne que les douleurs lombaires"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 5,
+      "prompt": "Le mal de dos est lié au stress"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 6,
+      "prompt": "Moins on fait d’activité physique, plus on risque d’avoir mal au dos"
+    }
+  ],
+  "title": "Quizz Mal de dos chez les jeunes",
+  "url": "quizz.html"
+}

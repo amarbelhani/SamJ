@@ -1,0 +1,78 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right"
+      },
+      "number": 1,
+      "prompt": "Acute low back pain is treated by bed rest"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Right"
+      },
+      "number": 2,
+      "prompt": "Swimming is recommended for backache"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right"
+      },
+      "number": 3,
+      "prompt": "Low back pain often passes on its own "
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right "
+      },
+      "number": 4,
+      "prompt": "Cervical pain is more frequent"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right"
+      },
+      "number": 5,
+      "prompt": "Backache is linked to stress"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right"
+      },
+      "number": 6,
+      "prompt": "The less you do physical activity, the more you risk having a backache "
+    }
+  ],
+  "title": "Quiz back pain",
+  "url": "quizz.html"
+}

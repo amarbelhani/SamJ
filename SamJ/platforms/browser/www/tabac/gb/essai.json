@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": " Right"
+      },
+      "number": 1,
+      "prompt": "You can smoke nearby a non-smoker without any risk for him"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Wrong"
+      },
+      "number": 2,
+      "prompt": "You necessarily put on weight if you stop smoking"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right"
+      },
+      "number": 3,
+      "prompt": "Smoking is addictive"
+    },
+    {
+      "answers": [
+        "Right",
+        "Wrong"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Right"
+      },
+      "number": 4,
+      "prompt": "Even if you are addicted, you can stop smoking"
+    }
+  ],
+  "title": "Quizz Smoking",
+  "url": "quizz.html"
+}
