@@ -1,0 +1,90 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux"
+      },
+      "number": 1,
+      "prompt": "Ils affaiblissent le système immunitaire"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux"
+      },
+      "number": 2,
+      "prompt": "Les sels d’aluminium utilisés comme adjuvants sont dangereux"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 3,
+      "prompt": "La vaccination permet d’éradiquer certaines maladies"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 4,
+      "prompt": "La vaccination des adultes aide à protéger les tout-petits"
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Vrai"
+      },
+      "number": 5,
+      "prompt": "Me faire vacciner aide à protéger ceux qui ne peuvent pas se faire vacciner."
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux"
+      },
+      "number": 6,
+      "prompt": "Les \"cocktails\" de plusieurs vaccins sont moins bien supportés."
+    },
+    {
+      "answers": [
+        "Vrai",
+        "Faux"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Faux"
+      },
+      "number": 7,
+      "prompt": "\"Recommandé\" et \"obligatoire\", c’est la même chose."
+    }
+  ],
+  "title": "Quizz Vaccination",
+  "url": "quizz.html"
+}

@@ -215,7 +215,7 @@ var $indicators = $('<ol>')
           if (last_question) {
             $results_title.html(resultsText(state));
             $results_ratio.text(
-              "Vpus obtenez " +
+              "Vous obtenez " +
               Math.round(100*(state.correct/state.total)) +
               "% de réponses correctes!"
             );
